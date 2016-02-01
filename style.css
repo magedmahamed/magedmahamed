@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'AraJozoor';
+	src: url('AraJozoor.eot?') format('eot'), 
+	     url('AraJozoor.woff') format('woff'), 
+	     url('AraJozoor.ttf')  format('truetype'),
+	     url('AraJozoor.svg#AraJozoor') format('svg');
+}
