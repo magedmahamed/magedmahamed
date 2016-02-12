@@ -1,0 +1,38 @@
+/*
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  
+=     00   00 00 00   00 00 00   00 00 00   00 00 00   00 00    =
+=     00   00    00        00    00    00   00    00   00       =
+=     00   00    00      00      00    00   00    00   00       =
+=     00   00    00    00        00    00   00    00   00       =
+=  00 00   00 00 00   00 00 00   00 00 00   00 00 00   00       =
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+*/
+
+/* Regular */
+@font-face {
+    font-family: "JF Flat Regular";
+    src: url('font/JF-Flat-regular.eot');
+    src: url('font/JF-Flat-regular.eot?#iefix') format('embedded-opentype'),
+    url('font/JF-Flat-regular.svg#JF Flat Regular') format('svg'),
+    url('font/JF-Flat-regular.woff') format('woff'),
+    url('font/JF-Flat-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  
+=     00   00 00 00   00 00 00   00 00 00   00 00 00   00 00    =
+=     00   00    00        00    00    00   00    00   00       =
+=     00   00    00      00      00    00   00    00   00       =
+=     00   00    00    00        00    00   00    00   00       =
+=  00 00   00 00 00   00 00 00   00 00 00   00 00 00   00       =
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+*/
+
+@font-face {
+	font-family: 'AraJozoor-Regular';
+	src: url('font/AraJozoor-Regular.eot');
+	src: local('☺'), url('font/AraJozoor-Regular.woff') format('woff'), url('font/AraJozoor-Regular.ttf') format('truetype'), url('font/AraJozoor-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
